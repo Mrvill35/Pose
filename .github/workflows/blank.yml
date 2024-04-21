@@ -34,3 +34,9 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          <!-- IMPORTANT: Please be sure to remove any private information before submitting. -->
+
+          Please attach the log file located at c:\Users\Money\AppData\Roaming\Code\logs\20240421T162408\window1\exthost\ms-dotnettools.vscode-dotnet-runtime\DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1713741851404.txt. Note that this file may contain personal data.
+          
+          **Extension Version:** 1.0.0
+          
